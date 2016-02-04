@@ -93,18 +93,18 @@ echo '<table style="width:100%; border:1px dashed #CCC" cellpadding="3">
         <td>Year 
         <select name="year" id="year">
           <option value="" selected="selected"></option>
-          <option value="2007">2007</option>
+          <option value="2016">2016</option>
         </select></td>
         <td><input type="submit" name="Submit" value="Submit" /></td>
         <td></td>
        </tr>';
 
 echo '<tr>
-        <td style="width:15%;border-bottom:1px solid #CCC">IP</td>
-        <td style="width:15%;border-bottom:1px solid #CCC">Browser</td>
-        <td style="width:15%;border-bottom:1px solid #CCC">Time</td>
-        <td style="width:30%;border-bottom:1px solid #CCC">Refferer</td>
-        <td style="width:25%;border-bottom:1px solid #CCC">Page</td>
+        <td style="width:15%;border-bottom:1px solid blue">IP</td>
+        <td style="width:15%;border-bottom:1px solid blue">Browser</td>
+        <td style="width:15%;border-bottom:1px solid blue">Time</td>
+        <td style="width:30%;border-bottom:1px solid blue">Refferer</td>
+        <td style="width:25%;border-bottom:1px solid blue">Page</td>
        </tr>';
 
 do {
