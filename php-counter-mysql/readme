@@ -1,0 +1,5 @@
+There are two web pages(West_late.php and index.php) in this small site.
+When a visitor visits either of the two pages, the visiting time, browser the visitor is using, visitor's ip, 
+and the page from which the visitor is sent to this small site are recorded in MySQL on the server.
+The display_visits.php can be used to display the detailed information about the site traffic distribution
+during different time.
