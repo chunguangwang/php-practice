@@ -1,0 +1,3 @@
+Create a contact form that user can send to a specified email address.
+Using Ajax to post the contact form information to the php file to make the submit 
+process slick.
